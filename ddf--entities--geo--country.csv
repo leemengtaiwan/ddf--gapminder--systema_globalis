@@ -248,7 +248,7 @@ tto,,Trinidad & Tobago,Trinidad,,Trinidad And Tobago,,,,,,,g77,Trinidad and Toba
 tun,,,,,Tunisia,,,,,,,g77,Tunisia,TN,i231,upper_middle_income,TRUE,TN,TUN,788,,coastline,34.0,9.0,muslim,Tunisia,TUNISIA,TRUE,TN,TUNISIA,africa,middle_east_north_africa
 tur,,,,,Turkey,,,,,,,oecd,Turkey,TR,i232,upper_middle_income,TRUE,TR,TUR,792,,coastline,39.0,35.0,muslim,Turkey,TURKEY,TRUE,TR,TURKEY,europe,europe_central_asia
 tuv,,,,,,,,,,,,others,Tuvalu,TV,i235,upper_middle_income,TRUE,TV,TUV,798,,coastline,-8.51719,179.14478,christian,Tuvalu,,TRUE,TV,TUVALU,asia,east_asia_pacific
-twn,,Taiwan Province of China,"China, Taiwan Province of",,Taiwan,,,,,,,others,Taiwan,TW,i221,,TRUE,TW,TWN,158,,coastline,24.0,121.0,eastern_religions,Taiwan,TAIWAN,FALSE,TW,TAIWAN,asia,east_asia_pacific
+twn,,Taiwan Province of China,"China, Taiwan Province of",,Taiwan,,,,,,,others,Taiwan,TW,i221,,TRUE,TW,TWN,158,,coastline,24.0,121.0,eastern_religions,Taiwan,TAIWAN,TRUE,TW,TAIWAN,asia,east_asia_pacific
 tza,,"Tanzania, U. Rep. of",Tanzania (United Republic of),United Republic of Tanzania,United Republic Of Tanzania,,,,,,,g77,Tanzania,TZ,i223,low_income,TRUE,TZ,TZA,834,,coastline,-6.0,35.0,christian,Tanzania,TANZANIA,TRUE,TZ,"TANZANIA, UNITED REPUBLIC OF",africa,sub_saharan_africa
 uga,,,,,Uganda,,,,,,,g77,Uganda,UG,i236,low_income,TRUE,UG,UGA,800,,landlocked,1.25,32.5,christian,Uganda,UGANDA,TRUE,UG,UGANDA,africa,sub_saharan_africa
 ukr,,,,,Ukraine,,,,,,,others,Ukraine,UA,i237,lower_middle_income,TRUE,UA,UKR,804,,coastline,49.0,32.0,christian,Ukraine,UKRAINE,TRUE,UA,UKRAINE,europe,europe_central_asia
