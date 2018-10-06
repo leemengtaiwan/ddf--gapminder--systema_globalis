@@ -1,16 +1,16 @@
 tag,name,parent
-achievement,Achievement,education
+achievement,成就,education
 advanced,進階用途,
-advanced_debt_trade,Advanced debt & trade,advanced
-aid_given,援助（提供）,economy
-aid_received,援助（獲得）,economy
-alternative_child_mortality_data,Alternative child mortality data,advanced
-alternative_demography_indicators,Alternative demography indicators,advanced
-alternative_energy,Alternative energy,advanced
-alternative_gdp_data,Alternative GDP data,advanced
-alternative_health_data,Alternative health data,advanced
-alternative_other_data,Alternative other data,advanced
-alternative_poverty_measures,Alternative poverty measures,advanced
+advanced_debt_trade,進階債務 & 貿易,advanced
+aid_given,提供援助,economy
+aid_received,獲得援助,economy
+alternative_child_mortality_data,替代兒童死亡率資料,advanced
+alternative_demography_indicators,替代人口指標,advanced
+alternative_energy,替代能源資料,advanced
+alternative_gdp_data,替代 GDP 資料,advanced
+alternative_health_data,替代健康資料,advanced
+alternative_other_data,替代其他資料,advanced
+alternative_poverty_measures,替代貧困衡量,advanced
 both_sexes_by_age,各年齡層人數比例 (%),population
 both_sexes_by_age_total,各年齡層人數總和,population
 cancer_female,癌症（女性）,health
@@ -20,7 +20,7 @@ causes_of_child_deaths,兒童死亡原因,health
 causes_of_newborn_deaths,新生兒死亡原因,health
 coal,煤,energy
 communication,通訊,infrastructure
-data_quality_use_as_color,Data quality (use as color),advanced
+data_quality_use_as_color,數據品質（用作顏色）,advanced
 debt_trade,債務 & 貿易,economy
 disasters,災難,environment
 economic_growth,經濟成長,advanced
@@ -40,7 +40,7 @@ female_by_age,各年齡層女性人數佔全體女性比例 (%),population
 forestry,森林 / 林業,environment
 gender_equality,性別平等,education
 geography,地理,environment
-geography_infrastructure,Geography and infrastructure,advanced
+geography_infrastructure,地理與基礎建設,advanced
 health,健康,
 health_economics,健康 & 經濟,health
 hiv,愛滋,health
@@ -49,9 +49,9 @@ incomes_growth,所得與成長,economy
 infrastructure,公共建設,
 infrastructure_water,水資源,infrastructure
 injuries_and_accidents,事故 & 受傷,health
-injury_deaths_by_gender_age_road_user,"Injury deaths by gender, age, road user",advanced
+injury_deaths_by_gender_age_road_user,傷亡（依性別、年齡以及道路使用者）,advanced
 labour_force_participation,勞動力參與,work
-literacy,讀寫能力,education
+literacy,識字能力,education
 malaria,瘧疾,health
 male_by_age,各年齡層男性人數佔全體男性比例 (%),population
 maternal_health,孕產婦健康,health
@@ -82,4 +82,4 @@ urbanization,都市化,population
 vaccine,疫苗,health
 war_peace,戰爭 & 和平,society
 work,工作,
-years_use_as_color,Years (use as color),advanced
+years_use_as_color,年份（用作顏色）,advanced
